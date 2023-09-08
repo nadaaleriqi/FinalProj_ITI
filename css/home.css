@@ -1,0 +1,277 @@
+body{
+    padding: 10px;
+}
+.bigHeader{
+    width: 97%;
+    display: flex;
+    padding-right: 45px ;
+    padding-left: 45px;
+    top: 3px;;
+    left:0;
+    position: fixed;
+    z-index: 1;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 180;
+    height: 80;
+    margin-left:2% ;
+    margin-bottom: 10px;
+}
+.divIcon{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    top: 3px;
+    margin-right: 13%;
+  
+  
+}
+.divIspan{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    top: 3px;;
+    left:0;
+    
+}
+.material-icons{
+    color: #a1805a;
+}
+.spanIcon{
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.Header2{
+    width: 98.5%;
+    height: 40;
+    background-color:  #a1805a;
+    display: flex;
+    position: fixed;
+    z-index: 1;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 60px;
+
+}
+.divSearch{
+    width: 380px;
+   height: 30px;
+   padding: 7px;
+   background-color: #fff;
+   display: flex;
+   margin-left: 8%;
+   justify-content: space-between;
+    align-items: center;
+}
+
+.divshead{
+    width: 55%;
+    display: flex;
+    margin-right: 20%;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 5%;
+    color: #fff;
+}
+.livingRoom{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+  
+}
+.bedroom{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    margin-left: 20px;
+}
+.kitchen{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    margin-left: 20px;
+}
+.contact{
+    font-size: 18px;
+    font-weight: 600;
+    color: white; 
+    margin-left: 20px;
+}
+
+.carousel-caption{
+ margin-bottom: 9%;
+}
+.w-100{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;  
+}
+.shop{
+    background-color: #a1805a;
+    border-color: #a1805a;
+    color: #fff;
+    width: 150px;
+    border-radius: 8px;
+    margin-bottom: 200px;
+}
+.hslider{
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+.dSpan{
+   
+    text-align: center;
+}
+.span1{
+    text-align-last: center;
+    color: #a1805a;
+    font-size: large;
+    font-weight: 600;
+}
+.headPhoto{
+    width: 80%;
+   align-self: center;
+    display: flex;
+    margin-left: 10%; 
+    justify-content: space-between;
+    align-items: center;
+   
+   
+}
+.divCatorag{
+    width: 25%;
+    justify-content: space-between;
+    align-items: center;
+}
+.image3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 200px;
+}
+.divStore{
+    margin-left: 14px;
+    top: 3px;
+}
+.rows{
+    display: flex;
+    align-items: center;
+    width: 250px;
+    margin-left: .1%;
+    
+}
+#icon{
+    color:#dddbdb;
+    margin-left: 45%;
+    
+}
+#icon2{
+    color:#dddbdb;
+    margin-left: 40%;
+}
+#icon3{
+    color:#dddbdb;
+    margin-left: 42%;
+}
+#icon4{
+    color:#dddbdb;
+    margin-left: 53%;
+}
+.catogrial{
+    font-size: large;
+    font-weight: 600;
+    
+}
+.brand{
+    font-size: small;
+    color: #dddbdb;
+    margin-bottom: 50px;
+}
+.money{
+    font-size: medium;
+    font-weight: 500;
+}
+.divImage{
+    position: relative;
+    display: block;
+    resize: inherit;
+}
+.bottomleft {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    margin-left: 15%;
+   margin-bottom: 120px;
+   letter-spacing: 3px;
+    font-size: 40px;
+    color: #362a1d ;
+    font-weight: 600;
+  }
+.image4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%; 
+    height: 450px; 
+}
+.imagFind{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 400px; 
+}
+.divFind{
+    width: 300px;
+    height: 450px; 
+
+}
+.find{
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
+.footer {
+    background-color: #a1805a;
+}
+.dives{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.email{
+ width: 350px;
+ height: 30px;
+ background-color: #fff;
+ color: #dddbdb;
+ border-radius: 5px;
+ text-align: center;
+}
+.officia{
+    font-size: 15px;
+    color: #ddb504;
+}
+.subscribe{
+    width: 200px;
+    height: 30px;
+    margin-left: 15px;
+    background-color: #fff;
+    color: #e99d06;
+    text-align: center;
+    border-radius: 5px;
+}
+.address{
+    font-size: 15px;
+}
+

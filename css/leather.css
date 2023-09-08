@@ -1,0 +1,349 @@
+body{
+    padding: 10px;
+}
+.bigHeader{
+    width: 97%;
+    display: flex;
+    padding-right: 45px ;
+    padding-left: 45px;
+    top: 3px;;
+    left:0;
+    position: fixed;
+    z-index: 1;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 180;
+    height: 80;
+    margin-left:2% ;
+    margin-bottom: 10px;
+}
+.divIcon{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    top: 3px;
+    margin-right: 13%;
+  
+  
+}
+.divIspan{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    top: 3px;;
+    left:0;
+    
+}
+.material-icons{
+    color: #a1805a;
+}
+.spanIcon{
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.Header2{
+    width: 98.5%;
+    height: 40;
+    background-color:  #a1805a;
+    display: flex;
+    position: fixed;
+    z-index: 1;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 60px;
+
+}
+.divSearch{
+    width: 380px;
+   height: 30px;
+   padding: 7px;
+   background-color: #fff;
+   display: flex;
+   margin-left: 8%;
+   justify-content: space-between;
+    align-items: center;
+}
+
+.divshead{
+    width: 55%;
+    display: flex;
+    margin-right: 20%;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 5%;
+    color: #fff;
+}
+.livingRoom{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+  
+}
+.bedroom{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    margin-left: 20px;
+}
+.kitchen{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    margin-left: 20px;
+}
+.contact{
+    font-size: 18px;
+    font-weight: 600;
+    color: white; 
+    margin-left: 20px;
+}
+.diA{
+   width: 80%;
+   margin-left: 102px;
+  
+    
+}
+.back{
+    color: #a1805a;
+    font-size: 15px;
+}
+.bodySec3{
+    width: 80%;
+    margin-left: 97px;
+    display: flex;
+    
+    
+}
+.imge1{
+    width: 600px;
+    height: 450px;
+}
+.diimge{
+    width: 440px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.imge2{
+    width: 140px;
+    height: 100px;
+}
+.special{
+    color: #a1805a;
+    font-size: small;
+}
+.detail{
+    margin-left: 35px;
+}
+.divs{
+    width: 137%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div2{
+    display: flex;
+    align-items: center;
+}
+#icon2{
+    margin-right: 8px;
+    color:#dddbdb;
+}
+.Add{
+    width: 105px;
+    background-color: #a1805a;
+    font-size: 15px;
+    color: #fff;
+    border-color: #fff;
+    border-radius: 5px;
+}
+.colors{
+    display: flex;
+    align-items: center;
+    margin-top: 18px;
+   
+}
+.price{
+    font-size: 18px;
+    font-weight: 500;
+}
+.color{
+    font-size: 15px;
+}
+.brownn{
+    font-size: large;
+    font-weight: 500;
+}
+.div3{
+    width: 145px;
+    display: flex;
+    margin-top: 8px;
+    align-items: center;
+}
+.Hcolon{
+    width: 137%;
+    border-width: 2px;
+    border-color: #dddbdb;
+}
+.IconDes{
+    display: flex;
+    align-items: center;
+}
+.imagIcon{
+    width: 30px;
+    height: 30px;
+}
+.Des{
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.ipsum{
+    width: 144%;
+    padding: 8px;
+}
+.lorem{
+    font-size: smaller;
+    letter-spacing: .5px;
+   
+}
+.Hcolon2{
+    width: 98%;
+    margin-right: 30%;
+    border-width: 2px;
+    border-color: #dddbdb; 
+}
+.Hcolon3{
+    width: 92.2%;
+    text-align: center;
+    border-width: 2px;
+    border-color: #dddbdb; 
+    margin-left: 7%;
+
+}
+.Sec4{
+    width: 80%;
+}
+.related{
+    margin-left: 9.2%;
+    font-weight: bold;
+}
+.divSec4{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 9.2%;
+}
+
+.divCat{
+    width: 27%;
+    justify-content: space-between;
+    align-items: center;   
+}
+.imagediv{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 96%;
+    height: 220px;
+}
+.seeMore{
+    width: 85px;
+    height: 30px;
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 52%;
+    background-color: #a1805a;
+    
+}
+.div8{
+    margin-left: 14px;
+    top: 3px; 
+}
+.divRows{
+    display: flex;
+    align-items: center;
+    width: 219px;
+    margin-right: 5%;
+    justify-content: space-between;
+}
+.cat{
+    font-size: 15px;
+    font-weight: 600;
+   margin-right: 35px;
+}
+
+#icon9{
+    color:#dddbdb;
+    /* margin-left: 5%;  */
+}
+.bra{
+    font-size: small;
+    color: #dddbdb;
+    margin-bottom: 50px;
+}
+.mon{
+    font-size: medium;
+    font-weight: 500;
+}
+.IconRev{
+    width: 80%;
+    display: flex;
+    align-items: center;
+   margin-left: 7%;
+}
+.imagIcon2{
+    width: 30px;
+    height: 30px;
+}
+.See{
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+.footer {
+    background-color: #a1805a;
+}
+.dives{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.email{
+ width: 350px;
+ height: 30px;
+ background-color: #fff;
+ color: #dddbdb;
+ border-radius: 5px;
+ text-align: center;
+}
+.officia{
+    font-size: 15px;
+    color: #ddb504;
+}
+.subscribe{
+    width: 200px;
+    height: 30px;
+    margin-left: 15px;
+    background-color: #fff;
+    color: #e99d06;
+    text-align: center;
+    border-radius: 5px;
+}
+.address{
+    font-size: 15px;
+}
