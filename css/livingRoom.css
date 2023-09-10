@@ -200,8 +200,14 @@ body{
     margin-left: 6.5%; 
     justify-content: space-between;
     align-items: center;
+    animation: heads 3s;
    
    
+}
+@keyframes heads {
+    0% {opacity: 0;}
+    20% {opacity: 0; transform:  translatex(50%);}
+    100% {opacity: 1; transform:  translateX(0%);}    
 }
 .divCatorag{
     width: 27%;
@@ -273,6 +279,12 @@ body{
      margin-left: 7%; 
      justify-content: space-between;
      align-items: center;
+     animation: head 3s;
+}
+@keyframes head {
+    0% {opacity: 0;}
+    20% {opacity: 0; transform:  translatey(50%);}
+    100% {opacity: 1; transform:  translatey(0%);}    
 }
 .diimg{
     width: 25%;
@@ -352,7 +364,14 @@ option{
      /* margin-left: 3%;  */
      justify-content: space-between;
      align-items: center;
+    animation: SEC 3s;
      
+}
+
+@keyframes SEC {
+    0% {opacity: 0;}
+    20% {opacity: 0; transform:  translateX(50%);}
+    100% {opacity: 1; transform:  translateX(0%);}    
 }
 .divCat{
     width: 70%;
