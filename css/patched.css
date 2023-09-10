@@ -248,6 +248,12 @@ body{
     align-items: center;
     justify-content: space-between;
     margin-left: 9.2%;
+ animation: SEc 3s;
+}
+@keyframes SEc  {
+    0% {opacity: 0;}
+    20% {opacity: 0; transform:  translateX(50%);}
+    100% {opacity: 1; transform:  translateX(0%);}    
 }
 
 .divCat{
