@@ -145,8 +145,13 @@ body{
     margin-left: 10%; 
     justify-content: space-between;
     align-items: center;
+   animation: head  2.5s;
    
-   
+}
+@keyframes head {
+    0% {opacity: 0;}
+    20% {opacity: 0; transform:  translateX(50%);}
+    100% {opacity: 1; transform:  translateX(0%);}    
 }
 .divCatorag{
     width: 25%;
@@ -274,4 +279,3 @@ body{
 .address{
     font-size: 15px;
 }
-
